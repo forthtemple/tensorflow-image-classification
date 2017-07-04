@@ -1,4 +1,6 @@
 # Tensorflow Image Classification
+Updated to Tensorflow 1.2
+
 This repo demonstrates an image classification system for any set of images reusably. It uses tensorflow to create a neural network and do the image classification, and imagemagick to preprocess images. It then will generate data files for the images and labels for use within tensorflow. 
 
 ## Prerequisites
